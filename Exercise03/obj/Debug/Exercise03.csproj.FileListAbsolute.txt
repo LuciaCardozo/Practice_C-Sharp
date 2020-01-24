@@ -1,0 +1,6 @@
+C:\Users\Haedo Jonathan\Desktop\Practicas de C# lucia\Exercise03\bin\Debug\Exercise03.exe.config
+C:\Users\Haedo Jonathan\Desktop\Practicas de C# lucia\Exercise03\bin\Debug\Exercise03.exe
+C:\Users\Haedo Jonathan\Desktop\Practicas de C# lucia\Exercise03\bin\Debug\Exercise03.pdb
+C:\Users\Haedo Jonathan\Desktop\Practicas de C# lucia\Exercise03\obj\Debug\Exercise03.exe
+C:\Users\Haedo Jonathan\Desktop\Practicas de C# lucia\Exercise03\obj\Debug\Exercise03.pdb
+C:\Users\Haedo Jonathan\Desktop\Practicas de C# lucia\Exercise03\obj\Debug\Exercise03.csprojAssemblyReference.cache
