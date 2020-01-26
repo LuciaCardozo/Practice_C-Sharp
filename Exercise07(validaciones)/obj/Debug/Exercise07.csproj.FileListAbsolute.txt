@@ -1,0 +1,6 @@
+C:\Users\Haedo Jonathan\source\repos\Exercise07\bin\Debug\Exercise07.exe.config
+C:\Users\Haedo Jonathan\source\repos\Exercise07\bin\Debug\Exercise07.exe
+C:\Users\Haedo Jonathan\source\repos\Exercise07\bin\Debug\Exercise07.pdb
+C:\Users\Haedo Jonathan\source\repos\Exercise07\obj\Debug\Exercise07.csprojAssemblyReference.cache
+C:\Users\Haedo Jonathan\source\repos\Exercise07\obj\Debug\Exercise07.exe
+C:\Users\Haedo Jonathan\source\repos\Exercise07\obj\Debug\Exercise07.pdb
